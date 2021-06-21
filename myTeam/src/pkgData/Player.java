@@ -16,7 +16,7 @@ public class Player {
 	
 	@Override
 	public String toString() {
-		return "Player [number=" + number + ", name=" + name + ", pos=" + pos + "]";
+		return "Player [number=" + number + ", name=" + name + ", pos=" + pos + "]==" ;
 	}
 	
 	
